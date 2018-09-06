@@ -16,6 +16,7 @@ main h5{
 footer{
   display: flex;
   shape-inside: auto;
+  shape-inside: auto;
 }
 footer h5{
   margin-bottom: 2em;
