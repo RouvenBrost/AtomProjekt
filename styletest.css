@@ -1,0 +1,30 @@
+#overview{
+  display: flex;
+}
+#overview section{
+  padding: 0.7rem;
+}
+main h5{
+  padding-bottom: 0.7rem;
+  border-style: solid;
+  border-width: 2px;
+}
+.libraries h5{
+  border-bottom-color: red;
+}
+/*Fußbereich*/
+footer{
+  display: flex;
+}
+footer h5{
+  margin-bottom: 2em;
+}
+footer ul{
+  list-style: none;
+  margin:0;
+  padding: 0;
+}
+footer li{
+  margin: 0;
+  padding: 0;
+}
