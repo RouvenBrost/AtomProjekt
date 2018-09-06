@@ -15,6 +15,7 @@ main h5{
 /*Fußbereich*/
 footer{
   display: flex;
+  shape-inside: auto;
 }
 footer h5{
   margin-bottom: 2em;
